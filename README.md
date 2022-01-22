@@ -1,2 +1,1 @@
-# Newton-s-Cradle
-whj project
+# NC27
